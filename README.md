@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a second year computer science student at Royal Holloway University of London. Building my skillset as a full stack developer.
+
+
 <!--
 **seany067/seany067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
